@@ -1,5 +1,5 @@
 {
-    "is_new_version_online" : true,
+    "is_new_version_online" : false,
     "webview_url_cn" : "https://cn.bing.com/?mkt=zh-CN",
     "webview_url_en" : "https://cn.bing.com/?mkt=zh-CN",
     "force_cmt" : false,
